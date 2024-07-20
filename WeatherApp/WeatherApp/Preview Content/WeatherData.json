@@ -1,0 +1,26 @@
+{
+    "location": {
+        "name": "Chokun",
+        "region": "Atyrau",
+        "country": "Kazakhstan",
+        "lat": 48.4,
+        "lon": 52.4,
+        "tz_id": "Asia/Atyrau",
+        "localtime": "2023-12-27 11:37"
+    },
+    "current": {
+        "temp_c": 1.8,
+        "condition": {
+            "text": "Partly cloudy"
+        },
+        "wind_kph": 23.0,
+        "wind_dir": "W",
+        "pressure_mb": 1011.0,
+        "precip_mm": 0.0,
+        "humidity": 79,
+        "feelslike_c": -3.4,
+        "feelslike_f": 26.0,
+        "vis_km": 10.0,
+        "uv": 2.0
+    }
+}
